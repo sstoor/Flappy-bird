@@ -1,0 +1,10 @@
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.csprojAssemblyReference.cache
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.Form1.resources
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.Properties.Resources.resources
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.csproj.GenerateResource.cache
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.csproj.CoreCompileInputs.cache
+C:\Users\Sukh\source\repos\flappy\bin\Debug\flappy.exe.config
+C:\Users\Sukh\source\repos\flappy\bin\Debug\flappy.exe
+C:\Users\Sukh\source\repos\flappy\bin\Debug\flappy.pdb
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.exe
+C:\Users\Sukh\source\repos\flappy\obj\Debug\flappy.pdb
